@@ -1,0 +1,27 @@
+article{
+    display:flex;
+    height:200px;
+    background-image: url(./img/ciggrette_icon.png);
+    background-repeat: no-repeat;
+    -moz-background-size: 100%;
+    -webkit-background-size: 100%;
+    -o-background-size: 100%;
+    margin-bottom: 25px;
+    margin-left: auto;
+    margin-right: auto;
+} 
+
+h1{
+    color: rgba(173, 31, 31, 0.815);
+}
+
+select{
+    color: rgba(0, 0, 0, 0.815);
+    background-color: rgba(44, 44, 44, 0.301);
+    background-image: linear-gradient(to right, rgb(238, 163, 24) 30%, rgba(255, 255, 255, 0) 30%, rgb(0, 0, 0) 10%, rgb(255, 255, 255) 10%);
+}
+
+body{
+    background-color: rgba(44, 44, 44, 0.301);
+    text-align: center
+}
